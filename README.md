@@ -1,7 +1,7 @@
 # 🎓 Student Management System
 
 A simple and user-friendly **Student Management System built with Java**.
-This project demonstrates core Java concepts such as **OOP, ArrayList, methods, loops, and CRUD operations**.
+This project demonstrates core Java concepts such as **OOPS, ArrayList, methods, loops, and CRUD operations**.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge)
@@ -19,6 +19,7 @@ This project demonstrates core Java concepts such as **OOP, ArrayList, methods, 
 * 🚪 Exit System
 * 💾 In-memory student data management
 * 🧱 Object-Oriented Programming
+* #contact student
 
 ---
 
@@ -59,6 +60,7 @@ Open the project in:
 * Eclipse
 * VS Code
 * NetBeans
+* jscode
 
 ### 3️⃣ Compile
 
@@ -71,6 +73,7 @@ javac StudentManagementSystem.java
 ```bash
 java StudentManagementSystem
 ```
+### 5 interpret
 
 ---
 
@@ -86,6 +89,7 @@ java StudentManagementSystem
 4. Update Student
 5. Delete Student
 6. Exit
+7.contact student 
 ====================================
 Enter your choice:
 ```
@@ -140,7 +144,7 @@ This project helped practice:
 
 **MD AMAN**
 
-🎓 coding gita
+🎓 Swaminarayan university
 💻 Java Developer | AI Enthusiast | ai engineer
 
 ---
