@@ -11,8 +11,8 @@ This project demonstrates core Java concepts such as **OOP, ArrayList, methods, 
 
 ## 🚀 Features
 
-* ➕ Add Student
-* 📋 View All Students
+* ➕ Add Student#
+* 📋 View All Students#
 * 🔍 Search Student by ID
 * ✏️ Update Student Information
 * 🗑️ Delete Student
@@ -24,10 +24,10 @@ This project demonstrates core Java concepts such as **OOP, ArrayList, methods, 
 
 ## 🛠️ Technologies Used
 
-* ☕ **Java**
-* 📦 **ArrayList**
-* 🧩 **OOP**
-* ⌨️ **Scanner**
+* ☕ ***Java***
+* 📦 **ArrayList***
+* 🧩 #**OOP**#
+* ⌨️ #**Scanner**#
 * 🔄 **CRUD Operations**
 
 ---
@@ -129,6 +129,10 @@ This project helped practice:
 * 💰 Fee Management
 * 📄 Generate Student Reports
 * 🌐 Web-based version
+* python#
+* DSA
+* leetcode
+* 
 
 ---
 
@@ -136,8 +140,8 @@ This project helped practice:
 
 **MD AMAN**
 
-🎓 Swaminarayan University
-💻 Java Developer | AI Enthusiast | Student
+🎓 coding gita
+💻 Java Developer | AI Enthusiast | ai engineer
 
 ---
 
@@ -145,4 +149,5 @@ This project helped practice:
 
 If you like this project, consider giving it a ⭐ on GitHub!
 
-**Made with ☕ and Java**
+**Made with git and Java**
+the programm is cool
