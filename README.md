@@ -1,6 +1,6 @@
-# 🎓 Student Management System
+# 🎓 Student Management Systems
 
-A simple and user-friendly **Student Management System built with Java**.
+A simple and user-friendly ***Student Management System built with Java***
 This project demonstrates core Java concepts such as **OOPS, ArrayList, methods, loops, and CRUD operations**.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
